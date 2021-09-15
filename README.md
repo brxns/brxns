@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brxns
+- 👀 I’m interested in coding, learning new skills and travelling.
+- 🌱 I’m currently learning HTML/CSS, JavaScript, APIs and other fun stuff!
+- 💞️ I’m looking to elevate my skills and learn new things.
