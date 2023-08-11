@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @brxns
 - 👀 I’m interested in coding, learning new skills and travelling.
 - 🌱 I have recently finished a self-taught course in frontend development and I'm now starting a self-taught course on React.
-- 💞️ I’m looking to elevate my skills and learn new things.
